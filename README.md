@@ -8,7 +8,9 @@ My academic specialisation is in cyber-security and my approach to software engi
 
 OSCP and AWS certified. 
 
-## <a href="https://linkedin.com/in/tonynguyen61" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+***
+
+<a href="https://linkedin.com/in/tonynguyen61" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 <!--
 **nhhoang-tony/nhhoang-tony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
