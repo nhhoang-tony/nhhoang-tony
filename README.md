@@ -1,14 +1,14 @@
-### Tony Nguyen
+## Tony Nguyen
 
-# Professional software engineer with several years of experience building complex, scalable, and robust systems.
+Professional software engineer with several years of experience building complex, scalable, and robust systems.
 
-# Full-stack software development in AWS, IoT, Ionic, Angular, React, React Native, Next.js, Node.js, TypeScript, JavaScript, Python, C, Lambda, DynamoDB, PostgreSQL, CI/CD, Agile.
+Full-stack software development in AWS, IoT, Ionic, Angular, React, React Native, Next.js, Node.js, TypeScript, JavaScript, Python, C, Lambda, DynamoDB, PostgreSQL, CI/CD, Agile.
 
-# My academic specialisation is in cyber-security and my approach to software engineering is rooted in security and CI/CD automation. 
+My academic specialisation is in cyber-security and my approach to software engineering is rooted in security and CI/CD automation. 
 
-# OSCP and AWS certified. 
+OSCP and AWS certified. 
 
-# View my portfolio and resume at https://tonynguyen61.com
+View my portfolio and resume at https://tonynguyen61.com
 
 
 <!--
