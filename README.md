@@ -1,6 +1,6 @@
 ## Tony Nguyen
 
-Professional software engineer with several years of experience building large-scale, robust, and secure systems. Experienced working in complex problem solving and Internet of Things applications. 
+Professional software engineer with several years of experience building large-scale, robust, and secure systems. Experienced working on complex problem-solving and Internet of Things applications. 
 
 Full-stack software development in AWS, IoT, Ionic, Angular, React, React Native, Next.js, Node.js, TypeScript, JavaScript, Python, C, GraphQL, Lambda, DynamoDB, PostgreSQL, CI/CD, Agile methodologies, test automation.
 
