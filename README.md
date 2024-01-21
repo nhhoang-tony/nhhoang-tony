@@ -2,9 +2,9 @@
 
 Professional software engineer with several years of experience building large-scale, robust, and secure systems. Experienced working in complex problem solving and Internet of Things applications. 
 
-Full-stack software development in AWS, IoT, Ionic, Angular, React, React Native, Next.js, Node.js, TypeScript, JavaScript, Python, C, GraphQL, Lambda, DynamoDB, PostgreSQL, CI/CD, Agile, test automation.
+Full-stack software development in AWS, IoT, Ionic, Angular, React, React Native, Next.js, Node.js, TypeScript, JavaScript, Python, C, GraphQL, Lambda, DynamoDB, PostgreSQL, CI/CD, Agile methodologies, test automation.
 
-My academic specialisation is in cyber-security and my approach to software engineering is rooted in Agile, CI/CI, and security focus. 
+My academic specialisation is in cyber-security and my approach to software engineering is rooted in Agile, CI/CD, and security focus. 
 
 OSCP and AWS certified. 
 
